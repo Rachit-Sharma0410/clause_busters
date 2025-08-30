@@ -1,0 +1,17 @@
+Demo Links / Prototypes (Optional)
+
+Here are some relevant demo links and resources that reflect our idea "AI Legal Mitra":
+
+1. GitHub Repository (AI Legal Assistant – Reference):  
+   https://github.com/maharshipandya/AI-Lawyer
+
+2. GitHub Repository (Legal Document Analysis using NLP):  
+   https://github.com/saikr789/Legal-Document-Analysis
+
+3. Video Demo – AI in Legal Services:  
+   https://www.youtube.com/watch?v=6qk1fXLPY60
+
+4. GitHub Repository (Chatbot for Legal Help – Reference Prototype):  
+   https://github.com/Rajpratik71/AI-Legal-Chatbot
+
+Note: These links are provided as reference/demo inspirations. Our project "AI Legal Mitra" will be uniquely developed by our team **Clause_Busters** for the hackathon.
